@@ -70,6 +70,9 @@ cd Govee_SmartBulb
 ```bash
 python3 connection_with_multicolour_govee.py
 ```
-👨‍💻 Author
+## 👨‍💻 Author
 Kishor Rankhamb
-Feel free to contribute, fork or ask queries!  
+
+Feel free to contribute, fork or ask queries!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/kishor-jeevan-rankhamb-b657a5138/)
