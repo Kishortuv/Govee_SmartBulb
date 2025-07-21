@@ -61,7 +61,7 @@ For ex. Change colors, increase/decrease brightness etc.
 ##  Setup Instructions
 1. Clone the Repository
 ```bash
-git clone https://github.com/<your-username>/Govee_SmartBulb.git
+git clone https://github.com/Kishortuv/Govee_SmartBulb.git
 cd Govee_SmartBulb
 ```
 2. Install Dependencies
