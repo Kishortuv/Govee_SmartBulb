@@ -63,7 +63,7 @@ for device_path, ifaces in managed_objects.items():
             print(f"Failed to get properties for {device_path}: {e}")
 
 # Automatically connect to a specific device if it's found
-bd_address = "D5:39:32:33:06:4B"  # Example address (use your target device address)
+bd_address = ""  # Example address (use your target device address)
 
 if bd_address in device_list:
     print(f"Connecting to {device_list[bd_address]['Name']} at {bd_address}...")

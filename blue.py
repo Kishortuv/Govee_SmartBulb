@@ -23,7 +23,7 @@ adapter_iface.StopDiscovery()
 print("Discovery complete.\n")
 
 # Define your target Bluetooth MAC address
-target_address = "D5:39:32:33:06:4B"  # Replace with your actual device address
+target_address = ""  # Replace with your actual device address
 
 # Locate target device
 managed_objects = manager.GetManagedObjects()

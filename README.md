@@ -76,3 +76,8 @@ Kishor Rankhamb
 Feel free to contribute, fork or ask queries!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/kishor-jeevan-rankhamb-b657a5138/)
+
+## Note
+- ⚠️ Unauthorized use of BLE control tools on third-party devices can be illegal. Use responsibly.
+- This is a research project. **Use it only on devices you own or have permission to test**.
+- Always use this project in compliance with your **local laws and device usage terms**.
